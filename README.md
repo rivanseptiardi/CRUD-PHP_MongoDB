@@ -1,3 +1,3 @@
 # CRUD-PHP_MongoDB
 
-Jalan XAMPP terlebih dahulu
+Jalankan XAMPP terlebih dahulu
